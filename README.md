@@ -1,9 +1,14 @@
-### Hi there 👋
+# Hello World! I'm Gabriel Leonello Costa!
 
-<!--
-**GabrielLeonello/GabrielLeonello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6">
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=GabrielLeonello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+    <div class="col-lg-4">
+    <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLeonello&layout=compact&langs_count=8&theme=dracula"/>
+    </div>
+  </div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
